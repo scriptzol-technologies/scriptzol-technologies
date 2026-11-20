@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Scriptzol Technologies</h1>
-<h3 align="center">A Leading Software Development Company from India</h3>
+<h3 align="center">A Leading Software Development Company in India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scriptzol-technologies&label=Profile%20views&color=0e75b6&style=flat" alt="scriptzol-technologies" /> </p>
 
